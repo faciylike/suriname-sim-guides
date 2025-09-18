@@ -60,3 +60,10 @@ layout: default
 　　- 深度游：Telcell实体卡+随身Wi-Fi（雨林里它才是亲爹）  
 　　最后提醒：买卡时让店员写APN在卡套上！2025年新规后，很多人蹲厕所翻设置，太狼狈了。  
 　　想象一下，你站在苏里南河边发朋友圈，信号满格——这感觉，比喝到正宗苏里南朗姆酒还爽。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Suriname eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/suriname-data-plans)
